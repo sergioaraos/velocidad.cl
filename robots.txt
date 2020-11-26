@@ -1,1 +1,1 @@
-Sitemap: https://velocidad.cl/sitemap.xml
+Sitemap: https://fastpages.fast.ai/sitemap.xml
